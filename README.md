@@ -1,4 +1,7 @@
 # RexshackGaming
+
+**This repository has been archived by the owner on Dec 6, 2023. It is now read-only.**
+
 - discord : https://discord.gg/eW3ADkf4Af
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA
 - github : https://github.com/Rexshack-RedM
